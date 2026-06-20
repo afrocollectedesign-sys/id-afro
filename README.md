@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="idfroBanner" src="/src/assets/images/tshirt_factory_1781887706050.jpg" />
 
-  <h1>Built with AI Studio</h2>
+<h1>id’fro & i’d’afro cert</h1>
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+<p>Personnalisation de vêtements, impression sur tasses et articles de sérigraphie.</p>
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+<a href="https://tonsite.com">Découvrir nos créations</a>
 
 </div>

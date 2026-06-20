@@ -1,0 +1,8 @@
+{
+  "name": "id\u0027afro",
+  "description": "A premium, interactive e-commerce store with dynamic custom text print visualization, color/size selection, animated sliding cart, and detailed product specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
